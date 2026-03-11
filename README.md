@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Linux, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dpkeepsitreal@gmail.com
+- 📫 How to reach me ... dpalm88@icloud.com
 
 <!---
 Dpalm88/Dpalm88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
