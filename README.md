@@ -20,6 +20,7 @@ CloudWatch · Snowflake · Incident Response · Escalation Management
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**strava-dashboard**](https://github.com/Dpalm88/strava-dashboard) | Personal athlete analytics dashboard — Strava OAuth2, live training data, route maps, cycling stats, CI/CD auto-deploy | React · Strava API · Leaflet · Recharts · GitHub Actions |
 | [ad-terraform-aws](https://github.com/Dpalm88/ad-terraform-aws) | Automated Windows Server 2022 DC deployment with AD DS, OUs, and password policy | Terraform · AWS · PowerShell |
 | [api-ecs-project](https://github.com/Dpalm88/api-ecs-project) | Flask microservice containerized and deployed to AWS ECS Fargate with CloudWatch monitoring | Python · Docker · AWS ECS · Terraform |
 | [k8s-platform-demo](https://github.com/Dpalm88/k8s-platform-demo) | Kubernetes platform demo | Kubernetes · Shell |
